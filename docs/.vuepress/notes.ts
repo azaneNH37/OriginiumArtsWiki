@@ -38,7 +38,8 @@ const zhWikiNote = defineNoteConfig({
       collapsed: false,
       icon: 'mdi:book',
       items: [
-        'OriginiumArts'
+        'OriginiumArts',
+        'tips'
       ]
     }
   ]
