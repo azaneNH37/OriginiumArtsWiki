@@ -1,3 +1,8 @@
+---
+title: 一些可能会用到的tips
+createTime: 2025/08/22 15:44:04
+permalink: /wiki/pu9l93bu/
+---
 #### 因为来不及写 wiki 决定写点教程做替代的屑（
 
 ### 功能性方块

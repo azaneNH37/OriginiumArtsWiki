@@ -39,7 +39,18 @@ const zhWikiNote = defineNoteConfig({
       icon: 'mdi:book',
       items: [
         'OriginiumArts',
-        '一些可能会用到的tips'
+        '更新日志',
+        '常见问题和已知错误'
+      ]
+    },
+    {
+      text: '模组内容',
+      collapsed: false,
+      icon: 'mdi:book',
+      items: [
+        '制造',
+        '装配技能和模块',
+        '使用施术单元'
       ]
     }
   ]
@@ -59,13 +70,13 @@ export const zhNotes = defineNotesConfig({
 /* =================== locale: en-US ======================= */
 
 const enDemoNote = defineNoteConfig({
-  dir: 'demo',
+  dir: 'wiki',
   // `dir` 所指向的目录中的所有 markdown 文件，其 permalink 需要以 `link` 配置作为前缀
   // 如果 前缀不一致，则无法生成侧边栏。
   // 所以请确保  markdown 文件的 permalink 都以 `link` 开头
-  link: '/demo',
+  link: '/wiki',
   // 手动配置侧边栏结构
-  sidebar: ['', 'foo', 'bar'],
+  sidebar: [],
   // 根据文件结构自动生成侧边栏
   // sidebar: 'auto',
 })
