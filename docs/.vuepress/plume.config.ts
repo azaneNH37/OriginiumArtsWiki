@@ -18,7 +18,7 @@ import { enNotes, zhNotes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: '/icon_wiki.png',
+  logo: 'assets/icon_wiki.png',
 
   appearance: true,  // 配置 深色模式
 
