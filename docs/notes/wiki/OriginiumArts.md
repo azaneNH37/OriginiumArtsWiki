@@ -26,3 +26,5 @@ OriginiumArts(OGNA)是一个受游戏《明日方舟》中源石技艺相关设�
 ![](/assets/intro4.png)
 ![](/assets/intro5.png)
 ![](/assets/intro6.png)
+![](/assets/2025-09-09_18.29.59.png)
+![](/assets/2025-09-09_18.28.35.png)
