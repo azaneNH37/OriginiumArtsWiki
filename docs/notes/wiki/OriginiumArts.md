@@ -33,11 +33,11 @@ OriginiumArts(OGNA)是一个受游戏《明日方舟》中源石技艺相关设�
 
 ### 模组下载&百科
 
-<LinkCard title="Modrinth" href="https://modrinth.com/mod/originiumarts" description="模组在Modrinth的下载地址" icon="https://modrinth.com/favicon-light.ico" />
+<LinkCard title="Modrinth" href="https://modrinth.com/mod/originiumarts" description="模组在Modrinth的下载地址。" icon="https://modrinth.com/favicon-light.ico" />
 
 <!-- [Modrinth](https://modrinth.com/mod/originiumarts) -->
 
-<LinkCard title="Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/originiumarts" description="模组在CurseForge的下载地址" icon="https://static-beta.curseforge.com/images/favicon.ico" />
+<LinkCard title="Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/originiumarts" description="模组在CurseForge的下载地址。" icon="https://static-beta.curseforge.com/images/favicon.ico" />
 
 <!-- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/originiumarts) -->
 
