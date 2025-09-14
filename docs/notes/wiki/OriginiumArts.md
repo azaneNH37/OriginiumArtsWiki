@@ -31,17 +31,17 @@ OriginiumArts(OGNA)是一个受游戏《明日方舟》中源石技艺相关设�
 
 ## 相关链接
 
-### 模组下载
+### 模组下载&百科
 
-<LinkCard title="Modrinth" href="https://modrinth.com/mod/originiumarts" description="As this project is still in beta, please be sure to back up your work." icon="https://modrinth.com/favicon-light.ico" />
+<LinkCard title="Modrinth" href="https://modrinth.com/mod/originiumarts" description="模组在Modrinth的下载地址" icon="https://modrinth.com/favicon-light.ico" />
 
 <!-- [Modrinth](https://modrinth.com/mod/originiumarts) -->
 
-<LinkCard title="Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/originiumarts" description="As this project is still in beta, please be sure to back up your work." icon="https://static-beta.curseforge.com/images/favicon.ico" />
+<LinkCard title="Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/originiumarts" description="模组在CurseForge的下载地址" icon="https://static-beta.curseforge.com/images/favicon.ico" />
 
 <!-- [Curseforge](https://www.curseforge.com/minecraft/mc-mods/originiumarts) -->
 
-<LinkCard title="MC百科" href="https://www.mcmod.cn/class/21880.html" description="OriginiumArts（OGNA）是一个受游戏《明日方舟》中源石技艺相关设定启发的的模组。" icon="https://www.mcmod.cn/static/public/images/favicon.ico" />
+<LinkCard title="MC百科" href="https://www.mcmod.cn/class/21880.html" description="OriginiumArts（OGNA）是一个受游戏《明日方舟》中源石技艺相关设定启发的模组。" icon="https://www.mcmod.cn/static/public/images/favicon.ico" />
 
 <!-- [MC百科](https://www.mcmod.cn/class/21880.html) -->
 
@@ -58,7 +58,7 @@ OriginiumArts(OGNA)是一个受游戏《明日方舟》中源石技艺相关设�
 
 [【MC百科】GeckoLib](https://www.mcmod.cn/class/3232.html) -->
 
-### B站宣传视频
+### B 站宣传视频
 
 @[bilibili](BV1ADetzQEEw)
-P1：[【明日方舟×MC】源石技艺 武器＋魔法模组 测试版宣传片 （施术单元、技能与模块化改装）](https://www.bilibili.com/video/BV1ADetzQEEw/)
+P1：[【明日方舟 ×MC】源石技艺 武器＋魔法模组 测试版宣传片 （施术单元、技能与模块化改装）](https://www.bilibili.com/video/BV1ADetzQEEw/)
