@@ -7,16 +7,15 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Theme Plume
-      tagline: VuePress Next Theme
-      text: A simple, feature-rich, document & blog
+      name: OriginiumArts
+      tagline: 源石技艺
       actions:
         -
           theme: brand
-          text: Blog
-          link: /en/blog/
+          text: Start
+          link: /en/start/
         -
           theme: alt
           text: Github →
-          link: https://github.com/pengzhanbo/vuepress-theme-plume
+          link: https://github.com/azaneNH37/OriginiumArts
 ---
